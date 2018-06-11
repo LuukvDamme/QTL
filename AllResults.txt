@@ -1,0 +1,432 @@
+PVV4 (a,b) ; 1
+ P-value= 6.346581761358279e-07 H1=True
+
+CRY2 (a,b) ; 2
+ P-value= 2.3785070768364054e-08 H1=True
+
+AXR-1 (a,b) ; 3
+ P-value= 1.9837937374589304e-07 H1=True
+
+HH.335C (a,b) ; 4
+ P-value= 3.870230565524437e-06 H1=True
+
+DF.162L (a,b) ; 5
+ P-value= 2.7788629466651477e-06 H1=True
+
+BH.147L (a,b) ; 6
+ P-value= 1.1310868223739677e-05 H1=True
+
+EC.480C (a,b) ; 7
+ P-value= 8.521047519775251e-06 H1=True
+
+EC.66C (a,b) ; 8
+ P-value= 0.00039879321496126606 H1=True
+
+GD.86L (a,b) ; 9
+ P-value= 7.34026831094168e-05 H1=True
+
+g2395 (a,b) ; 10
+ P-value= 0.0005168896505262138 H1=True
+
+CH.160L (a,b) ; 11
+ P-value= 0.0006676304700294624 H1=True
+
+AD.121C (a,b) ; 12
+ P-value= 0.019543856043524 H1=True
+
+AD.106L (a,b) ; 13
+ P-value= 0.014941167406975162 H1=True
+
+GB.112L (a,b) ; 14
+ P-value= 0.9894740842730991 H0=True
+
+BH.106L (a,b) ; 15
+ P-value= 0.6923183050210904 H0=True
+
+GD.97L (a,b) ; 16
+ P-value= 0.5371320923991125 H0=True
+
+DF.93C (a,b) ; 17
+ P-value= 0.3124183211085289 H0=True
+
+CD.108L (a,b) ; 18
+ P-value= 0.3106949779170613 H0=True
+
+DF.85C (a,b) ; 19
+ P-value= 0.2632529565932022 H0=True
+
+FD.59C (a,b) ; 20
+ P-value= 0.10459407264065196 H0=True
+
+BF.206L (a,b) ; 21
+ P-value= 0.15687117115290608 H0=True
+
+CH.200C (a,b) ; 22
+ P-value= 0.08017449744968369 H0=True
+
+DF.260L (a,b) ; 23
+ P-value= 0.11005798702107615 H0=True
+
+EC.88C (a,b) ; 24
+ P-value= 0.08197766982977314 H0=True
+
+DF.408C (a,b) ; 25
+ P-value= 0.13840548120160853 H0=True
+
+HH.375L (a,b) ; 26
+ P-value= 0.5576414607874627 H0=True
+
+CH.215L (a,b) ; 27
+ P-value= 0.5359301862190637 H0=True
+
+BF.116C (a,b) ; 28
+ P-value= 0.7988308567186971 H0=True
+
+GH.157L (a,b) ; 29
+ P-value= 0.6529378519397072 H0=True
+
+CC.318C (a,b) ; 30
+ P-value= 0.45930010944595545 H0=True
+
+CD.173L (a,b) ; 31
+ P-value= 0.9457946396835465 H0=True
+
+FD.90L (a,b) ; 32
+ P-value= 0.7052519386896088 H0=True
+
+CD.227C (a,b) ; 33
+ P-value= 0.8564248180676104 H0=True
+
+HH.360L (a,b) ; 34
+ P-value= 0.7418437954402809 H0=True
+
+AD.156C (a,b) ; 35
+ P-value= 0.21903706285559285 H0=True
+
+BF.325L (a,b) ; 36
+ P-value= 0.4957375449690401 H0=True
+
+GH.580L (a,b) ; 37
+ P-value= 0.35105968836070267 H0=True
+
+CH.610C (a,b) ; 38
+ P-value= 0.1952792688706928 H0=True
+
+EC.495C (a,b) ; 39
+ P-value= 0.15581182618541606 H0=True
+
+FD.81L (a,b) ; 40
+ P-value= 0.10846689594264596 H0=True
+
+BF.105C (a,b) ; 41
+ P-value= 0.16983220018303538 H0=True
+
+CH.284C (a,b) ; 42
+ P-value= 0.4565584508549476 H0=True
+
+FD.222L (a,b) ; 43
+ P-value= 0.04050275376050909 H1=True
+
+EG.66L (a,b) ; 44
+ P-value= 0.07183547231486004 H0=True
+
+CH.65C (a,b) ; 45
+ P-value= 0.03842355261818197 H1=True
+
+BF.221L (a,b) ; 46
+ P-value= 0.016946904178456557 H1=True
+
+FD.85C (a,b) ; 47
+ P-value= 0.12823998420362914 H0=True
+
+GB.150L (a,b) ; 48
+ P-value= 0.17063312615934093 H0=True
+
+FD.150C (a,b) ; 49
+ P-value= 0.043420106289358815 H1=True
+
+GD.460L (a,b) ; 50
+ P-value= 0.09003963957803973 H0=True
+
+Erecta (a,b) ; 51
+ P-value= 0.04268451279614278 H1=True
+
+BH.195L (a,b) ; 52
+ P-value= 0.11972919880048076 H0=True
+
+GH.247L (a,b) ; 53
+ P-value= 0.07940116462701516 H0=True
+
+BH.120L (a,b) ; 54
+ P-value= 0.035911208681427685 H1=True
+
+DF.140C (a,b) ; 55
+ P-value= 0.017911913089806795 H1=True
+
+T2N18 (a,b) ; 56
+ P-value= 0.01195269574072617 H1=True
+
+T6A23 (a,b) ; 57
+ P-value= 0.0108945814794634 H1=True
+
+EG.357C (a,b) ; 58
+ P-value= 0.01758808157445319 H1=True
+
+F4I1 (a,b) ; 59
+ P-value= 0.0009239595015106407 H1=True
+
+MSAT2.22 (a,b) ; 60
+ P-value= 0.0022529614681606447 H1=True
+
+DF.77C (a,b) ; 61
+ P-value= 0.08374164267545861 H0=True
+
+GB.120C (a,b) ; 62
+ P-value= 0.46344181761448755 H0=True
+
+EG.75L (a,b) ; 63
+ P-value= 0.19686012316901852 H0=True
+
+CH.322C (a,b) ; 64
+ P-value= 0.12731721271327257 H0=True
+
+FD.111L (a,b) ; 65
+ P-value= 0.27327055714464715 H0=True
+
+CC.266L (a,b) ; 66
+ P-value= 0.22573573176971826 H0=True
+
+BH.88C (a,b) ; 67
+ P-value= 0.351342456142425 H0=True
+
+GH.226C (a,b) ; 68
+ P-value= 0.9756437150414077 H0=True
+
+EC.83C (a,b) ; 69
+ P-value= 0.4600467124399593 H0=True
+
+GD.318C (a,b) ; 70
+ P-value= 0.8574600539830286 H0=True
+
+AD.92L (a,b) ; 71
+ P-value= 0.9943568381793453 H0=True
+
+BF.148C (a,b) ; 72
+ P-value= 0.9317018047986623 H0=True
+
+CD.800C (a,b) ; 73
+ P-value= 0.9083767921089844 H0=True
+
+BF.134C (a,b) ; 74
+ P-value= 0.5002578181363002 H0=True
+
+DF.250L (a,b) ; 75
+ P-value= 0.7250981444197977 H0=True
+
+GD.136C (a,b) ; 76
+ P-value= 0.44366897899185853 H0=True
+
+HH.440L (a,b) ; 77
+ P-value= 0.6011633677805452 H0=True
+
+BF.128C (a,b) ; 78
+ P-value= 0.17618838455277192 H0=True
+
+HH.117C (a,b) ; 79
+ P-value= 0.16402188906461415 H0=True
+
+GD.296C (a,b) ; 80
+ P-value= 0.3603716652354916 H0=True
+
+DF.328C (a,b) ; 81
+ P-value= 0.3325796406619127 H0=True
+
+FD.98C (a,b) ; 82
+ P-value= 0.48981619460425607 H0=True
+
+CD.87L (a,b) ; 83
+ P-value= 0.9092660627971159 H0=True
+
+DF.65L (a,b) ; 84
+ P-value= 0.9019429537254315 H0=True
+
+HH.171C (a,b) ; 85
+ P-value= 0.8559620172083817 H0=True
+
+AD.112L (a,b) ; 86
+ P-value= 0.7086416565920244 H0=True
+
+BH.109L (a,b) ; 87
+ P-value= 0.8224830981451148 H0=True
+
+HH.90L (a,b) ; 88
+ P-value= 0.6923292326898305 H0=True
+
+ANL2 (a,b) ; 89
+ P-value= 0.2271795894739033 H0=True
+
+GH.250C (a,b) ; 90
+ P-value= 0.11431532790892104 H0=True
+
+GA1 (a,b) ; 91
+ P-value= 0.09421819000584047 H0=True
+
+C6L9 (a,b) ; 92
+ P-value= 0.34898133394339803 H0=True
+
+T7M24 (a,b) ; 93
+ P-value= 0.4894624458624459 H0=True
+
+CD.730C (a,b) ; 94
+ P-value= 0.7586933878595201 H0=True
+
+CH.169C (a,b) ; 95
+ P-value= 0.47127838205031214 H0=True
+
+EC.306L (a,b) ; 96
+ P-value= 0.9588470416619497 H0=True
+
+BH.92L (a,b) ; 97
+ P-value= 0.9317359035918028 H0=True
+
+FD.154L (a,b) ; 98
+ P-value= 0.820392809049857 H0=True
+
+CH.238C (a,b) ; 99
+ P-value= 0.9839349180607977 H0=True
+
+SC5 (a,b) ; 100
+ P-value= 0.9296238642944382 H0=True
+
+CD.329C (a,b) ; 101
+ P-value= 0.7026145471900256 H0=True
+
+FD.167L (a,b) ; 102
+ P-value= 0.7846989456029637 H0=True
+
+CH.70L (a,b) ; 103
+ P-value= 0.6889683883422677 H0=True
+
+HH.159C (a,b) ; 104
+ P-value= 0.8054801383985556 H0=True
+
+GB.490C (a,b) ; 105
+ P-value= 0.5282841202446553 H0=True
+
+VPMH47 (a,b) ; 106
+ P-value= 0.7473521927090716 H0=True
+
+VPMH19 (a,b) ; 107
+ P-value= 0.858932293062866 H0=True
+
+GB.750C (a,b) ; 108
+ P-value= 0.9812820894454352 H0=True
+
+BH.342C (a,b) ; 109
+ P-value= 0.8631789578374509 H0=True
+
+FD.207L (a,b) ; 110
+ P-value= 0.4169283109901877 H0=True
+
+CH.690C (a,b) ; 111
+ P-value= 0.5744374376212977 H0=True
+
+AD.292L (a,b) ; 112
+ P-value= 0.886608197033629 H0=True
+
+BH.144L (a,b) ; 113
+ P-value= 0.8566598490959745 H0=True
+
+EC.198L (a,b) ; 114
+ P-value= 0.6252135596691664 H0=True
+
+BH.180C (a,b) ; 115
+ P-value= 0.9979914845966533 H0=True
+
+BH.107L (a,b) ; 116
+ P-value= 0.09324102078337956 H0=True
+
+nga151 (a,b) ; 117
+ P-value= 0.0186077715371713 H1=True
+
+DF.231C (a,b) ; 118
+ P-value= 0.02088357683783449 H1=True
+
+DF.184L (a,b) ; 119
+ P-value= 0.005452611321408049 H1=True
+
+GH.473C (a,b) ; 120
+ P-value= 0.0017323289745714496 H1=True
+
+GH.121L (a,b) ; 121
+ P-value= 0.002528039433319811 H1=True
+
+AD.129L (a,b) ; 122
+ P-value= 0.005950599032342415 H1=True
+
+HH.480C (a,b) ; 123
+ P-value= 0.0020219192886132015 H1=True
+
+BH.96L (a,b) ; 124
+ P-value= 0.073192906407968 H0=True
+
+CC.188L (a,b) ; 125
+ P-value= 0.07830599459130584 H0=True
+
+GD.239L (a,b) ; 126
+ P-value= 0.09224889081143087 H0=True
+
+DF.300C (a,b) ; 127
+ P-value= 0.06284291262477568 H0=True
+
+GB.235C (a,b) ; 128
+ P-value= 0.023027107609687538 H1=True
+
+CD.179L (a,b) ; 129
+ P-value= 0.0628213118474554 H0=True
+
+CH.88L (a,b) ; 130
+ P-value= 0.14397624745404689 H0=True
+
+CD.116L (a,b) ; 131
+ P-value= 0.18949911112672077 H0=True
+
+EC.151L (a,b) ; 132
+ P-value= 0.4502480748783235 H0=True
+
+DFR (a,b) ; 133
+ P-value= 0.6117544475782073 H0=True
+
+GD.350L (a,b) ; 134
+ P-value= 0.3194796408083052 H0=True
+
+BH.81L (a,b) ; 135
+ P-value= 0.31268032055199896 H0=True
+
+HH.445L (a,b) ; 136
+ P-value= 0.23608160355001853 H0=True
+
+GD.118C (a,b) ; 137
+ P-value= 0.34669388865697404 H0=True
+
+CC.262C (a,b) ; 138
+ P-value= 0.1577005544247524 H0=True
+
+GB.102L (a,b) ; 139
+ P-value= 0.3187070585493423 H0=True
+
+HH.143C (a,b) ; 140
+ P-value= 0.9792543862395147 H0=True
+
+BF.168L (a,b) ; 141
+ P-value= 0.7754335850353766 H0=True
+
+DF.119L (a,b) ; 142
+ P-value= 0.8666683342638362 H0=True
+
+GD.222C (a,b) ; 143
+ P-value= 0.6233161258498962 H0=True
+
+EG.205L (a,b) ; 144
+ P-value= 0.2503892061835959 H0=True
+
